@@ -1,0 +1,23 @@
+body {
+    font-family: "Source Serif 4", sans-serif;
+    text-align: center;
+    color: white;
+    background-color: #232426;
+}
+
+button {
+    background-color: #03A65A;
+    color: white;
+    border-radius: 4px;
+    font-family: "Source Serif 4", sans-serif;
+    padding: 10px 27px;
+    margin: 4px 2px;
+    font-size: 15px;
+}
+
+#resultt {
+    position:relative;
+    top: 30px;
+    text-align: center;
+    color: white;
+}
