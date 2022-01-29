@@ -3,6 +3,8 @@ body {
     text-align: center;
     color: white;
     background-color: #232426;
+    position: relative;
+    margin-top: 15%;
 }
 
 button {
@@ -14,6 +16,7 @@ button {
     margin: 4px 2px;
     font-size: 15px;
 }
+
 
 #resultt {
     position:relative;
