@@ -16,8 +16,20 @@ button {
     margin: 4px 2px;
     font-size: 15px;
     border: 2px solid;
-    border-radius: 15px 50px 30px;
+    border-radius: 30px 5px;
 }
+button:hover{
+    background-color: #009c53;
+    font-size:15.2px;
+}
+button:active{
+    opacity: 0.75;
+}
+
+.disabled{
+    pointer-events: none;
+}
+
 
 #resultt {
     position:relative;
