@@ -15,6 +15,8 @@ button {
     padding: 10px 27px;
     margin: 4px 2px;
     font-size: 15px;
+    border: 2px solid;
+    border-radius: 15px 50px 30px;
 }
 
 #resultt {
